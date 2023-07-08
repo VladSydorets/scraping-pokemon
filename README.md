@@ -2,7 +2,7 @@
 Simple Python Web Scraper to get some basic info from the official [Pokémon website](https://www.pokemon.com/us/pokedex).
 
 ## JSON Output
-An example of the output to the .json file.
+An example of the output to the `.json` file.
 ``` json
 {
     "id": 1,
